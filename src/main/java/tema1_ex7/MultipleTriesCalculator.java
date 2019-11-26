@@ -32,7 +32,6 @@ public class MultipleTriesCalculator {
         }
     }
 
-
     public static int Calculator (int number1, int number2, String operator) {
 
         int result = 0;
